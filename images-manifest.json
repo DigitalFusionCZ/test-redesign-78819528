@@ -1,0 +1,223 @@
+{
+  "generated_at": "2025-07-29T08:53:50.182Z",
+  "total_images": 31,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO.png",
+      "file_path": "public/images/logo-1.jpg",
+      "file_name": "logo-1.jpg",
+      "description": "Image from logo section (fallback naming)",
+      "size_bytes": 210273
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/content-2.jpg",
+      "file_name": "content-2.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 690823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-3.jpg",
+      "file_name": "content-3.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoSAN.png",
+      "file_path": "public/images/content-4.jpg",
+      "file_name": "content-4.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 597382
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoIN.png",
+      "file_path": "public/images/content-5.jpg",
+      "file_name": "content-5.jpg",
+      "description": "Image from content section (fallback naming)",
+      "size_bytes": 415494
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD-scaled-1.jpg",
+      "file_path": "public/images/gallery-6.jpg",
+      "file_name": "gallery-6.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 464201
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-1-scaled-1.jpg",
+      "file_path": "public/images/gallery-7.jpg",
+      "file_name": "gallery-7.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 710687
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD3-scaled-1.jpg",
+      "file_path": "public/images/gallery-8.jpg",
+      "file_name": "gallery-8.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 464288
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/TANVALD2.jpg",
+      "file_path": "public/images/gallery-9.jpg",
+      "file_name": "gallery-9.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 886649
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD3-scaled-1.jpg",
+      "file_path": "public/images/gallery-10.jpg",
+      "file_name": "gallery-10.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 742175
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/gallery-11.jpg",
+      "file_name": "gallery-11.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 780486
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PRED-scaled-1.jpg",
+      "file_path": "public/images/gallery-12.jpg",
+      "file_name": "gallery-12.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 517823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PRED2-scaled-1.jpg",
+      "file_path": "public/images/gallery-13.jpg",
+      "file_name": "gallery-13.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 435076
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PO-scaled-1.jpg",
+      "file_path": "public/images/gallery-14.jpg",
+      "file_name": "gallery-14.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 247960
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PO2-scaled-1.jpg",
+      "file_path": "public/images/gallery-15.jpg",
+      "file_name": "gallery-15.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 306476
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RD1.jpg",
+      "file_path": "public/images/gallery-16.jpg",
+      "file_name": "gallery-16.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 839403
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/RD2-scaled-1.jpg",
+      "file_path": "public/images/gallery-17.jpg",
+      "file_name": "gallery-17.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 729718
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/RD3-scaled-1.jpg",
+      "file_path": "public/images/gallery-18.jpg",
+      "file_name": "gallery-18.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 604067
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/RDPO2-1-scaled-1.jpg",
+      "file_path": "public/images/gallery-19.jpg",
+      "file_name": "gallery-19.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 364404
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY-scaled-1.jpg",
+      "file_path": "public/images/gallery-20.jpg",
+      "file_name": "gallery-20.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 315921
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/JEVANY3.jpg",
+      "file_path": "public/images/gallery-21.jpg",
+      "file_name": "gallery-21.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 349730
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY2-scaled-1.jpg",
+      "file_path": "public/images/gallery-22.jpg",
+      "file_name": "gallery-22.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 262005
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PRED.jpg",
+      "file_path": "public/images/gallery-23.jpg",
+      "file_name": "gallery-23.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 423326
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PRED-2.jpg",
+      "file_path": "public/images/gallery-24.jpg",
+      "file_name": "gallery-24.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 704748
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PO.jpg",
+      "file_path": "public/images/gallery-25.jpg",
+      "file_name": "gallery-25.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 496272
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PO-2.jpg",
+      "file_path": "public/images/gallery-26.jpg",
+      "file_name": "gallery-26.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 474578
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PO-3.jpg",
+      "file_path": "public/images/gallery-27.jpg",
+      "file_name": "gallery-27.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 452581
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP.jpg",
+      "file_path": "public/images/gallery-28.jpg",
+      "file_name": "gallery-28.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 570718
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-2.jpg",
+      "file_path": "public/images/gallery-29.jpg",
+      "file_name": "gallery-29.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 757520
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-3.jpg",
+      "file_path": "public/images/gallery-30.jpg",
+      "file_name": "gallery-30.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 394853
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-4.jpg",
+      "file_path": "public/images/gallery-31.jpg",
+      "file_name": "gallery-31.jpg",
+      "description": "Image from gallery section (fallback naming)",
+      "size_bytes": 748088
+    }
+  ]
+}
